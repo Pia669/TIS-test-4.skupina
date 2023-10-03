@@ -14,6 +14,7 @@ Nas tim tvoria clenovia:
 
 1. Adrián Kocifaj
 <<<<<<< HEAD
+<<<<<<< HEAD
 2. Mikalai Halavachenka
 3.
 =======
@@ -21,3 +22,6 @@ Nas tim tvoria clenovia:
 3. Filip Horvath
 >>>>>>> 9a1f4d3fd70b5c0b300fe93bf7190ecbff8d8457
 4.
+=======
+2.
+>>>>>>> 3c494b501ef15952a847bb8d9e53030179c2ea7e
