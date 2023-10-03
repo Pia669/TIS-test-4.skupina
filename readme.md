@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Adrián Kocifaj
-2.
+2. Mikalai Halavachenka
 3.
 4.
