@@ -14,5 +14,3 @@ Nas tim tvoria clenovia:
 
 1. Adrián Kocifaj
 2.
-3.
-4. Michael Jakovlev
