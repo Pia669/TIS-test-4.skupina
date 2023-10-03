@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Adrián Kocifaj
 2.
-3.
+3. Filip Horvath
 4.
