@@ -13,6 +13,11 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Adrián Kocifaj
+<<<<<<< HEAD
 2. Mikalai Halavachenka
 3.
+=======
+2.
+3. Filip Horvath
+>>>>>>> 9a1f4d3fd70b5c0b300fe93bf7190ecbff8d8457
 4.
